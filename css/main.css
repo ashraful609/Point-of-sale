@@ -1,0 +1,20 @@
+#product_variant_adder {
+	margin-left: 20px;
+}
+
+a.variant_remover_link {
+	padding: 10px;
+}
+
+a.variant_remover_link i {
+	width: 0.8em;
+	height: 0.8em;
+}
+
+table#cart tr td{
+	width:auto;
+}
+
+table#cart tr td input {
+	width: 60%;
+}
